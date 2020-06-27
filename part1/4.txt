@@ -1,0 +1,40 @@
+sudo docker run c52ece77379e
+Wrote to file /usr/app/logs.txt
+Wrote to file /usr/app/logs.txt
+Wrote to file /usr/app/logs.txt
+Wrote to file /usr/app/logs.txt
+Wrote to file /usr/app/logs.txt
+Wrote to file /usr/app/logs.txt
+Wrote to file /usr/app/logs.txt
+Wrote to file /usr/app/logs.txt
+Wrote to file /usr/app/logs.txt
+Wrote to file /usr/app/logs.txt
+Wrote to file /usr/app/logs.txt
+Wrote to file /usr/app/logs.txt
+Wrote to file /usr/app/logs.txt
+Wrote to file /usr/app/logs.txt
+Wrote to file /usr/app/logs.txt
+Wrote to file /usr/app/logs.txt
+. . .
+
+sudo docker exec b733652528d0 tail -f ./logs.txt
+Sat, 27 Jun 2020 21:40:01 GMT
+Sat, 27 Jun 2020 21:40:04 GMT
+Sat, 27 Jun 2020 21:40:07 GMT
+Sat, 27 Jun 2020 21:40:10 GMT
+Secret message is:
+"Docker is easy"
+Sat, 27 Jun 2020 21:40:16 GMT
+Sat, 27 Jun 2020 21:40:19 GMT
+Sat, 27 Jun 2020 21:40:22 GMT
+Sat, 27 Jun 2020 21:40:25 GMT
+Secret message is:
+"Docker is easy"
+Sat, 27 Jun 2020 21:40:31 GMT
+Sat, 27 Jun 2020 21:40:34 GMT
+Sat, 27 Jun 2020 21:40:37 GMT
+Sat, 27 Jun 2020 21:40:40 GMT
+Secret message is:
+"Docker is easy"
+Sat, 27 Jun 2020 21:40:46 GMT
+^C
